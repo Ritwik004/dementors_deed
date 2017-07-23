@@ -1,0 +1,43 @@
+body {background-color: #85c1e9;
+  font-family: "Open Sans", sans-serif;
+  background-image: url("");
+
+}
+
+
+ body {margin:10;}
+
+    .topnav {
+      overflow: hidden;
+      background-color:sienna;
+    }
+
+    .topnav a {
+      float:left;
+      display:block;
+      color:white;
+      text-align: center;
+      padding: 16px 16px;
+      text-decoration:none;
+      font-size: 19px;
+    }
+
+    .topnav a:hover {
+      background-color:silver;
+      color:black;
+    }
+
+    .topnav a {
+      background-color: sienna;
+      color:white;
+    }
+	
+	
+	
+.header,.footer{
+	margin-top:10px;
+	background: #2e86c1; 
+	color: #b3b6b7;
+	height:40px;
+	padding:20px;
+}
